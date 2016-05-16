@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1463239793 source:/home/oleksandr/CCPP/EuropeOption/main.cpp
+	<iostream>
+	"EuropeOp.h"
+
+1463233666 /home/oleksandr/CCPP/EuropeOption/EuropeOp.h
+	<string>
+

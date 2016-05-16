@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1460202159 source:/home/oleksandr/CCPP/example/addition.cpp
+	<string>
+	<iostream>
+	<sstream>
+	<fstream>
+
+1461183257 source:/home/oleksandr/CCPP/example/main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	"add.h"
+	"bin/IntegerArray.h"
+
+1460143325 /home/oleksandr/CCPP/example/add.h
+
+1461175977 source:/home/oleksandr/CCPP/example/IntegerArray.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<math.h>
+
+1461183745 /home/oleksandr/CCPP/example/bin/IntegerArray.h
+
+1461183772 source:/home/oleksandr/CCPP/example/rectangle.cpp
+	<iostream>
+	"bin/IntegerArray.h"
+

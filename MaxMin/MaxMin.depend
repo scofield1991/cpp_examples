@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1463230131 source:/home/oleksandr/CCPP/MaxMin/main.cpp
+	<iostream>
+	"numToStr.h"
+	<string>
+
+1463230168 /home/oleksandr/CCPP/MaxMin/numToStr.h
+	<string>
+
+1463230292 source:/home/oleksandr/CCPP/MaxMin/numToStr.cpp
+	<sstream>
+	<string>
+

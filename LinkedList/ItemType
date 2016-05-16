@@ -1,0 +1,8 @@
+#ifndef ITEMTYPE_INCLUDED
+#define ITEMTYPE_INCLUDED
+
+#include <iostream>
+using namespace std;
+
+typedef float ItemType;
+#endif // ITEMTYPE_INCLUDED

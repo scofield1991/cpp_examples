@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1463385228 source:/home/oleksandr/CCPP/Cartesian/main.cpp
+	<iostream>
+	"Point.h"
+	"Line.h"
+	"Rect.h"
+	"SquareRect.h"
+
+1463297711 /home/oleksandr/CCPP/Cartesian/Point.h
+
+1463297825 source:/home/oleksandr/CCPP/Cartesian/Point.cpp
+	"Point.h"
+
+1463300575 source:/home/oleksandr/CCPP/Cartesian/Line.cpp
+	<math.h>
+	"Line.h"
+
+1463300806 /home/oleksandr/CCPP/Cartesian/Line.h
+	<iostream>
+	"Point.h"
+
+1463386127 /home/oleksandr/CCPP/Cartesian/Rect.h
+
+1463384301 source:/home/oleksandr/CCPP/Cartesian/Rect.cpp
+	"Rect.h"
+
+1463385312 /home/oleksandr/CCPP/Cartesian/SquareRect.h
+

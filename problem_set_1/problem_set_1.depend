@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1463221241 source:/home/oleksandr/CCPP/problem_set_1/main.cpp
+	<iostream>
+	<cstring>
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1461607847 source:/home/oleksandr/CCPP/sortArr/sortarr/selsort.cpp
+	<iostream>
+	<string>
+
+1462302832 source:/home/oleksandr/CCPP/sortArr/sortarr/main.cpp
+	<iostream>
+	<string>
+	"sortarr.h"
+	"norepit.h"
+	"swapIntegers.h"
+
+1461607816 /home/oleksandr/CCPP/sortArr/sortarr/sortarr.h
+
+1461783640 /home/oleksandr/CCPP/sortArr/sortarr/norepit.h
+
+1461784459 source:/home/oleksandr/CCPP/sortArr/sortarr/norepit.cpp
+	<string>
+	<iostream>
+
+1462302773 /home/oleksandr/CCPP/sortArr/sortarr/swapIntegers.h
+
+1462302974 source:/home/oleksandr/CCPP/sortArr/sortarr/swapIntegers.cpp
+	<iostream>
+

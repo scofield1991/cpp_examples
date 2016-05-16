@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1459545475 source:/home/oleksandr/CCPP/HelloWorld/FIrst/hello.cpp
+	<iostream>
+
+1459549716 source:/home/oleksandr/CCPP/HelloWorld/FIrst/main.cpp
+	<iostream>
+
+1459591250 source:/home/oleksandr/CCPP/HelloWorld/FIrst/AddElements.cpp
+	<iostream>
+

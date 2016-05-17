@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1463423745 source:/home/oleksandr/CCPP/STLPractice/Queue.cpp
+	<iostream>
+	<stack>
+
+1463424842 source:/home/oleksandr/CCPP/STLPractice/main.cpp
+	<iostream>
+	"stl_headers.h"
+
+1463424830 /home/oleksandr/CCPP/STLPractice/stl_headers.h
+

@@ -1,9 +1,11 @@
 #include <iostream>
+#include "stl_headers.h"
 
 using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    stack_ex();
+    queue_ex();
     return 0;
 }
